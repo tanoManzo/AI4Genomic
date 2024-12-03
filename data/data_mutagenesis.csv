@@ -1,1 +1,12 @@
-﻿name,path,hg type,#samples,cell line,study,resource,BioSk562.sign.id.LP190708.txt,/repos/AI4Genomic/data/raQTL/,hg19,19237,k562,PMID: 31253979,https://osf.io/6y9td/,BioS74hepg2.sign.id.LP190708.txt,/repos/AI4Genomic/data/raQTL/,hg19,14183,hepg2,PMID: 31253979,https://osf.io/6y9td/,BioS73SORT1.csv,/repos/AI4Genomic/data/mpra/,hg38,1789,hepg2,PMID: 31395865,https://pavlopoulos-lab.org/shinyapps/app/mprabase,BioS73GSE87711.csv,/repos/AI4Genomic/data/mpra/,hg19,84,k562,PMID: 27259154,paper Sup. Mat.,BioS74GSE68331_SNP.csv,/repos/AI4Genomic/data/mpra/,hg19,283,hepg2,PMID: 26084464,paper Sup. Mat.,BioS73NPC_SNP.csv,/repos/AI4Genomic/data/mpra/,hg19,14042,NPC,PMID: 33885362,paper Sup. Mat.,BioS45Hela_TRAF3IP2.csv,/repos/AI4Genomic/data/mpra/,hg19,1962,Hela,PMID: 25340400,paper Sup. Mat.,BioS2Hela_PPARG.csv,/repos/AI4Genomic/data/mpra/,hg19,1614,Hela,PMID: 25340400,paper Sup. Mat.,BioS2Hela_SORL1.csv,/repos/AI4Genomic/data/mpra/,hg19,1665,Hela,PMID: 25340400,paper Sup. Mat.,BioS2
+﻿name,path,hg type,#samples,cell line,study,resource,BioS
+k562.sign.id.LP190708.txt,/repos/AI4Genomic/data/raQTL/,hg19,19237,k562,PMID: 31253979,https://osf.io/6y9td/,BioS74
+hepg2.sign.id.LP190708.txt,/repos/AI4Genomic/data/raQTL/,hg19,14183,hepg2,PMID: 31253979,https://osf.io/6y9td/,BioS73
+SORT1.csv,/repos/AI4Genomic/data/mpra/,hg38,1789,hepg2,PMID: 31395865,https://pavlopoulos-lab.org/shinyapps/app/mprabase,BioS73
+GSE87711.csv,/repos/AI4Genomic/data/mpra/,hg19,84,k562,PMID: 27259154,paper Sup. Mat.,BioS74
+GSE68331_SNP.csv,/repos/AI4Genomic/data/mpra/,hg19,283,hepg2,PMID: 26084464,paper Sup. Mat.,BioS73
+NPC_SNP.csv,/repos/AI4Genomic/data/mpra/,hg19,14042,NPC,PMID: 33885362,paper Sup. Mat.,BioS45
+Hela_TRAF3IP2.csv,/repos/AI4Genomic/data/mpra/,hg19,1962,Hela,PMID: 25340400,paper Sup. Mat.,BioS2
+Hela_PPARG.csv,/repos/AI4Genomic/data/mpra/,hg19,1614,Hela,PMID: 25340400,paper Sup. Mat.,BioS2
+Hela_SORL1.csv,/repos/AI4Genomic/data/mpra/,hg19,1665,Hela,PMID: 25340400,paper Sup. Mat.,BioS2
+k562.matched.control.LP190708.txt,/repos/AI4Genomic/data/raQTL/,hg19,19237,k562,PMID: 31253979,https://osf.io/6y9td/,BioS74
+hepg2.matched.control.LP190708.txt, /data/Dcode/gaetano/repos/AI4Genomic/data/raQTL/,hg19,14183,hepg2,PMID: 31253979,https://osf.io/6y9td/,BioS73  
