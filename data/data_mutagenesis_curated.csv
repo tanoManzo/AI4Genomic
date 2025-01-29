@@ -1,0 +1,10 @@
+name,path,hg type,#samples,cell line,study,resource,BioS,type_data
+k562.sign.id.LP190708.txt,/data/Dcode/gaetano/repos/AI4Genomic/data/raQTL/k562.sign.id.LP190708.txt,hg19,19237,k562,PMID: 31253979,https://osf.io/6y9td/,BioS74,raQTL
+hepg2.sign.id.LP190708.txt,/data/Dcode/gaetano/repos/AI4Genomic/data/raQTL/hepg2.sign.id.LP190708.txt,hg19,14183,hepg2,PMID: 31253979,https://osf.io/6y9td/,BioS73,raQTL
+SORT1.csv,/data/Dcode/gaetano/repos/AI4Genomic/data/mpra/SORT1.csv,hg38,1789,hepg2,PMID: 31395865,https://pavlopoulos-lab.org/shinyapps/app/mprabase,BioS73,mpra
+GSE87711.csv,/data/Dcode/gaetano/repos/AI4Genomic/data/mpra/GSE87711.csv,hg19,84,k562,PMID: 27259154,paper Sup. Mat.,BioS74,mpra
+GSE68331_SNP.csv,/data/Dcode/gaetano/repos/AI4Genomic/data/mpra/GSE68331_SNP.csv,hg19,283,hepg2,PMID: 26084464,paper Sup. Mat.,BioS73,mpra
+NPC_SNP.csv,/data/Dcode/gaetano/repos/AI4Genomic/data/mpra/NPC_SNP.csv,hg19,14042,NPC,PMID: 33885362,paper Sup. Mat.,BioS45,mpra
+Hela_TRAF3IP2.csv,/data/Dcode/gaetano/repos/AI4Genomic/data/mpra/Hela_TRAF3IP2.csv,hg19,1962,Hela,PMID: 25340400,paper Sup. Mat.,BioS2,mpra
+Hela_PPARG.csv,/data/Dcode/gaetano/repos/AI4Genomic/data/mpra/Hela_PPARG.csv,hg19,1614,Hela,PMID: 25340400,paper Sup. Mat.,BioS2,mpra
+Hela_SORL1.csv,/data/Dcode/gaetano/repos/AI4Genomic/data/mpra/Hela_SORL1.csv,hg19,1665,Hela,PMID: 25340400,paper Sup. Mat.,BioS2,mpra
