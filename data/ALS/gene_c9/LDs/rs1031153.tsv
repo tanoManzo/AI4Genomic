@@ -1,0 +1,9 @@
+Variation ID	Location	Distance from rs1031153	Consequence Type	r2	D'	Phenotypes	GWAS_Trait_Category	Source
+rs1031153	9:27565938-27565938	0	intron_variant	undefined	undefined	Cathepsin L1 levels;	Other measurement	Ensembl
+rs5897244	9:27574312-27574312	8374	regulatory_region_variant	0.855104	0.967598		No trait reported	Ensembl
+rs35362390	9:27549777-27549792	-16161	intron_variant	0.867153	1.000000		No trait reported	Ensembl
+rs2282240	9:27572636-27572636	6698	intron_variant	1.000000	1.000000		No trait reported	Ensembl
+rs10812614	9:27558240-27558240	-7698	intron_variant	0.941805	0.999999		No trait reported	Ensembl
+rs5897242	9:27546377-27546383	-19561	intergenic_variant	0.826144	0.936585		No trait reported	Ensembl
+rs774358	9:27559999-27559999	-5939	intron_variant	0.971120	1.000000		No trait reported	Ensembl
+rs13691	9:27546892-27546892	-19046	3_prime_UTR_variant	0.885264	1.000000	FRONTOTEMPORAL DEMENTIA AND/OR AMYOTROPHIC LATERAL SCLEROSIS 1	Neurological disorder	Ensembl

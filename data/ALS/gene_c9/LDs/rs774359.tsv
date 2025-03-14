@@ -1,0 +1,77 @@
+Variation ID	Location	Distance from rs774359	Consequence Type	r2	D'	Phenotypes	GWAS_Trait_Category	Source
+rs774359	9:27561051-27561051	0	3_prime_UTR_variant	undefined	undefined	Amyotrophic lateral sclerosis;	Other trait	Ensembl
+rs868857	9:27488908-27488908	-72143	intron_variant	0.815333	0.940861		No trait reported	Ensembl
+rs17769038	9:27489695-27489695	-71356	intron_variant	0.870369	0.999999		No trait reported	Ensembl
+rs812858	9:27545469-27545469	-15582	intergenic_variant	0.845585	0.999998		No trait reported	Ensembl
+rs1319236	9:27507211-27507211	-53840	intron_variant	0.877191	0.999999		No trait reported	Ensembl
+rs10812604	9:27496663-27496663	-64388	intron_variant	0.855170	0.999999		No trait reported	Ensembl
+rs7041409	9:27487223-27487223	-73828	intron_variant	0.855170	0.999999		No trait reported	Ensembl
+rs11410615	9:27527366-27527373	-33685	intron_variant	0.815333	0.940861		No trait reported	Ensembl
+rs700791	9:27545962-27545962	-15089	intergenic_variant	0.845585	0.999998		No trait reported	Ensembl
+rs1845699	9:27511595-27511595	-49456	intron_variant	0.833894	0.999997		No trait reported	Ensembl
+rs814030	9:27515196-27515196	-45855	intron_variant	0.841093	0.942440		No trait reported	Ensembl
+rs2440619	9:27514325-27514325	-46726	intron_variant	0.841093	0.942440		No trait reported	Ensembl
+rs10738775	9:27514320-27514320	-46731	intron_variant	0.855170	0.999999		No trait reported	Ensembl
+rs868856	9:27489253-27489253	-71798	intron_variant	0.855170	0.999999		No trait reported	Ensembl
+rs10812603	9:27494676-27494676	-66375	intron_variant	0.855170	0.999999		No trait reported	Ensembl
+rs700782	9:27526049-27526049	-35002	3_prime_UTR_variant	0.815333	0.940861		No trait reported	Ensembl
+rs9969832	9:27493065-27493065	-67986	intron_variant	0.870369	0.999999		No trait reported	Ensembl
+rs774356	9:27559723-27559723	-1328	intron_variant	1.000000	1.000000		No trait reported	Ensembl
+rs2764326	9:27535344-27535344	-25707	intergenic_variant	0.870369	0.999999		No trait reported	Ensembl
+rs2492821	9:27503508-27503508	-57543	intron_variant	0.815333	0.940861		No trait reported	Ensembl
+rs2484319	9:27563757-27563757	2706	intron_variant	0.870369	0.999999		No trait reported	Ensembl
+rs2783009	9:27514586-27514586	-46465	intron_variant	0.841093	0.942440		No trait reported	Ensembl
+rs3849941	9:27538950-27538950	-22101	intergenic_variant	0.815148	0.940754		No trait reported	Ensembl
+rs4609281	9:27514964-27514964	-46087	intron_variant	0.855170	0.999999		No trait reported	Ensembl
+rs9408120	9:27509637-27509637	-51414	intron_variant	0.841093	0.942440		No trait reported	Ensembl
+rs10967972	9:27523084-27523084	-37967	intron_variant	0.870369	0.999999		No trait reported	Ensembl
+rs9969707	9:27491106-27491106	-69945	intron_variant	0.870369	0.999999		No trait reported	Ensembl
+rs10967965	9:27497990-27497990	-63061	intron_variant	0.821163	0.999997		No trait reported	Ensembl
+rs774351	9:27516642-27516642	-44409	intron_variant	0.877192	0.999999		No trait reported	Ensembl
+rs2453565	9:27551042-27551042	-10009	intron_variant	0.845585	0.999998		No trait reported	Ensembl
+rs2492812	9:27499629-27499629	-61422	intron_variant	0.815333	0.940861		No trait reported	Ensembl
+rs10738774	9:27506053-27506053	-54998	intron_variant	0.855170	0.999999		No trait reported	Ensembl
+rs2484316	9:27527175-27527175	-33876	intron_variant	0.815333	0.940861		No trait reported	Ensembl
+rs2764332	9:27492524-27492524	-68527	intron_variant	0.815333	0.940861		No trait reported	Ensembl
+rs10435784	9:27490334-27490334	-70717	intron_variant	0.855170	0.999999		No trait reported	Ensembl
+rs2814708	9:27513718-27513718	-47333	intron_variant	0.877192	0.999999		No trait reported	Ensembl
+rs200817555	9:27513927-27513928	-47124	intron_variant	0.845585	0.999998		No trait reported	Ensembl
+rs2492818	9:27505641-27505641	-55410	intron_variant	0.815333	0.940861		No trait reported	Ensembl
+rs2453554	9:27561802-27561802	751	intron_variant	0.870369	0.999999		No trait reported	Ensembl
+rs2764331	9:27492936-27492936	-68115	intron_variant	0.815333	0.940861		No trait reported	Ensembl
+rs2814709	9:27513300-27513300	-47751	intron_variant	0.815333	0.940861		No trait reported	Ensembl
+rs700828	9:27557539-27557539	-3512	intron_variant	1.000000	1.000000		No trait reported	Ensembl
+rs774355	9:27515796-27515796	-45255	intron_variant	0.877192	0.999999		No trait reported	Ensembl
+rs2492815	9:27490298-27490298	-70753	intron_variant	0.815333	0.940861		No trait reported	Ensembl
+rs2589049	9:27493411-27493411	-67640	intron_variant	0.815333	0.940861		No trait reported	Ensembl
+rs7019847	9:27491399-27491399	-69652	intron_variant	0.855170	0.999999		No trait reported	Ensembl
+rs2440620	9:27497623-27497623	-63428	intron_variant	0.815333	0.940861		No trait reported	Ensembl
+rs3081234	9:27511998-27512003	-49053	intron_variant	0.841093	0.942440		No trait reported	Ensembl
+rs774354	9:27515969-27515969	-45082	intron_variant	0.877192	0.999999		No trait reported	Ensembl
+rs774352	9:27516592-27516592	-44459	intron_variant	0.877192	0.999999		No trait reported	Ensembl
+rs774353	9:27516438-27516438	-44613	intron_variant	0.877192	0.999999		No trait reported	Ensembl
+rs2477521	9:27509947-27509947	-51104	intron_variant	0.841093	0.942440		No trait reported	Ensembl
+rs7864595	9:27495574-27495574	-65477	intron_variant	0.855170	0.999999		No trait reported	Ensembl
+rs2477520	9:27509872-27509872	-51179	intron_variant	0.841093	0.942440		No trait reported	Ensembl
+rs3849945	9:27568819-27568819	7768	intron_variant	0.870369	0.999999		No trait reported	Ensembl
+rs142843265	9:27565221-27565223	4170	intron_variant	0.870369	0.999999		No trait reported	Ensembl
+rs774349	9:27521910-27521910	-39141	intron_variant	0.815333	0.940861		No trait reported	Ensembl
+rs2246591	9:27507806-27507806	-53245	intron_variant	0.841093	0.942440		No trait reported	Ensembl
+rs7036117	9:27507838-27507838	-53213	intron_variant	0.855170	0.999999		No trait reported	Ensembl
+rs1537712	9:27508491-27508491	-52560	intron_variant	0.877192	0.999999		No trait reported	Ensembl
+rs700795	9:27520510-27520510	-40541	intron_variant	0.815333	0.940861		No trait reported	Ensembl
+rs2477523	9:27536896-27536896	-24155	intergenic_variant	0.870369	0.999999		No trait reported	Ensembl
+rs2492823	9:27502007-27502007	-59044	intron_variant	0.815333	0.940861		No trait reported	Ensembl
+rs2453552	9:27527514-27527514	-33537	intron_variant	0.841093	0.942440		No trait reported	Ensembl
+rs2492817	9:27511153-27511153	-49898	intron_variant	0.877192	0.999999		No trait reported	Ensembl
+rs3849938	9:27517637-27517637	-43414	intron_variant	0.855170	0.999999		No trait reported	Ensembl
+rs774357	9:27559837-27559837	-1214	intron_variant	0.870369	0.999999		No trait reported	Ensembl
+rs2814707	9:27536399-27536399	-24652	intergenic_variant	0.870369	0.999999	Amyotrophic lateral sclerosis;Autism spectrum disorder	Other trait	GWAS
+rs2484314	9:27511286-27511286	-49765	intron_variant	0.877192	0.999999	Hair color	Other trait	GWAS
+rs12554036	9:27509213-27509213	-51838	intron_variant	0.870369	0.999999	Frontotemporal dementia MTAG	Neurological disorder	GWAS
+rs3849942	9:27543283-27543283	-17768	intergenic_variant	0.870369	0.999999	Amyotrophic lateral sclerosis;Amyotrophic lateral sclerosis;Amyotrophic lateral sclerosis;Amyotrophic lateral sclerosis;Amyotrophic lateral sclerosis;Amyotrophic lateral sclerosis;Amyotrophic lateral sclerosis (sporadic)	Other trait	GWAS
+rs2453555	9:27563870-27563870	2819	intron_variant	0.870369	0.999999	Amyotrophic lateral sclerosis;Amyotrophic lateral sclerosis	Other trait	GWAS
+rs7046653	9:27490969-27490969	-70082	intron_variant	0.855170	0.999999	Response to TNF antagonist treatment	Biological process	GWAS
+rs7019351	9:27491264-27491264	-69787	intron_variant	0.815421	0.915317	Amyotrophic lateral sclerosis	Other trait	GWAS
+rs17779457	9:27488094-27488094	-72957	intron_variant	0.815333	0.940861	Urinary symptoms in response to radiotherapy in prostate cancer	Cancer	GWAS
+rs3849943	9:27543384-27543384	-17667	intergenic_variant	0.870369	0.999999	Amyotrophic lateral sclerosis;Amyotrophic lateral sclerosis;Amyotrophic lateral sclerosis;Amyotrophic lateral sclerosis (sporadic)	Other trait	GWAS

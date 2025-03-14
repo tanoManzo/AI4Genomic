@@ -1,0 +1,8 @@
+Variation ID	Location	Distance from rs10122902	Consequence Type	r2	D'	Phenotypes	GWAS_Trait_Category	Source
+rs10122902	9:27556782-27556782	0	synonymous_variant	undefined	undefined	Amyotrophic lateral sclerosis;Amyotrophic lateral sclerosis;ClinVar: phenotype not specified;FRONTOTEMPORAL DEMENTIA AND/OR AMYOTROPHIC LATERAL SCLEROSIS 1;	Other trait	Ensembl
+rs72727506	9:27541834-27541834	-14948	intergenic_variant	0.916667	1.000000		No trait reported	Ensembl
+rs4879564	9:27557835-27557835	1053	intron_variant	0.956790	1.000000		No trait reported	Ensembl
+rs4878487	9:27552489-27552489	-4293	intron_variant	0.956790	1.000000		No trait reported	Ensembl
+rs36038669	9:27536735-27536735	-20047	intergenic_variant	0.844444	1.000000		No trait reported	Ensembl
+rs67483205	9:27541914-27541914	-14868	intergenic_variant	0.916667	1.000000		No trait reported	Ensembl
+rs3739526	9:27547315-27547315	-9467	3_prime_UTR_variant	1.000000	1.000000	FRONTOTEMPORAL DEMENTIA AND/OR AMYOTROPHIC LATERAL SCLEROSIS 1	Neurological disorder	Ensembl
